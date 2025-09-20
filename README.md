@@ -4,57 +4,28 @@
 
 ## Basic Details
 
-**Team Name:** [Your Team Name]
+*Team Name:* CODE RED
 
 ### Team Members
-- **Team Lead:** [Name] - [College]
-- **Member 2:** [Name] - [College]
-- **Member 3:** [Name] - [College]
+- *Team Lead:* JOEL JOSE -TKMCE
+- *Member 2:* ATHUL RAJ - TKMCE
+- *Member 3:* GOUTHAM KRISHNA B- TKMCE
 
 ## Game Description
-[2-3 lines about what your game is, the genre, and what makes it fun or unique.]
+This is an investigative game where u need to find clues in each level and pass on to another leave. It engages human intelligence and observation to cross each level
 
 ## The Concept
-[Explain the core idea of the game—story, gameplay mechanics, or main objective.]
+The core ideas include development of intelligence and observation. Also the suspense of the story makes it more interesting and exciting
 
 ## Technical Details
 
 ### Technologies Used
-- **Languages:** [C#, Python, JavaScript, etc.]
-- **Game Engines/Frameworks:** [Unity, Unreal Engine, Godot, Phaser, etc.]
-- **Libraries/Assets:** [Any relevant libraries, APIs, or assets used]
-- **Tools:** [Version control, graphic editors, sound tools, etc.]
+- *Languages:* PYTHON
+- *Game Engines/Frameworks:* NIL
+- *Libraries/Assets:* TKinter GUI with Python
+- *Tools:* Gemini Pro, Canva 
 
 ### Implementation
 
 #### Installation / Setup
-[To build and run the game manually from source:]
-
-**Example:**
-```bash
-   git clone https://github.com/[YourRepo]/[GameName].git
-   cd [GameName]
-```
-
-## Game Documentation
-
-### Screenshots (Add at least 3)
-
-![Screenshot1](Add screenshot 1 link)  
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 link)  
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 link)  
-*Add caption explaining what this shows*
-
-### Game Demo
-
-#### Gameplay Video
-[Add link to gameplay video]  
-
-## Game Download / Deployment
-- **Playable Version / Download:** [Link to executable or archive]
-- **Deployed Web Version (if any):** [Link to web build]
-
+JUST ADD PICS AND THE MAIN FILE IN THE SAME FILE AND RUN THE PORGRAM
